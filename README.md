@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @drugaSzychta
-- 👀 I’m interested in ... Embedded Systems
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... Python, previous attempt C
 - 💞️ I’m looking to collaborate with hobbyists
 - 📫 How to reach me ... via giHub message
 
